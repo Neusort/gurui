@@ -27,9 +27,6 @@ It is often impractical to offer real-time one-on-one coaching to every student 
 
 Watch the demo here: [GuruI Demo](https://www.youtube.com/watch?v=yqqWyCOJ5Ec)
 
-## Screenshots
-
-*Add screenshots of your app’s interface here to provide a visual walkthrough of the user experience.*
 
 ## Key Features
 
